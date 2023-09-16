@@ -1,7 +1,7 @@
 ## hey there! 
 
 ### about me 
-age: 20 <br>
+age: 21 <br>
 pronouns: he/they <br>
 studying: CompSci @ FEUP <br>
 interests: software dev, web, music, videogames, art in general <br>
