@@ -15,4 +15,4 @@ currently working on: personal site!
 #
 
 ### rn listening to
-[![lastfm-profile](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=dyte_&theme=dark&show_scrobbles=true)
+![lastfm-profile](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=dyte_&theme=dark&show_scrobbles=true)
